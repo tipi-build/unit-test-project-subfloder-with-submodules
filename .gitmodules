@@ -1,0 +1,3 @@
+[submodule "subfolder/unit-test-project-submodule-submodule"]
+	path = subfolder/unit-test-project-submodule-submodule
+	url = https://github.com/tipi-build/unit-test-project-submodule-submodule.git

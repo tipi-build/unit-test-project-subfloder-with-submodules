@@ -1,3 +1,0 @@
-[submodule "subfolder/submodule"]
-	path = subfolder/submodule
-	url = https://github.com/tipibuild/submodule.git
